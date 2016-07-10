@@ -35,3 +35,6 @@ tests:
 - EnglishGibbeirishDetectorTest - test for english gibberish detector. Demonstrates the usage of the factory with the GibberishDetectorExtended.
 - HebrewGibberishDetectorTest - test for hebrew gibberish detector. Demonstrates the usage of the factory on a language different than english.
 
+# License
+
+Gibberish-Detector-Java is available under the MIT License.  See [LICENSE.txt](LICENSE.txt).
