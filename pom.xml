@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.paypal.tools</groupId>
   <artifactId>Gibberish-Detector</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2</version>
   <name>Gibberish-Detector</name>
   <description>Java port of gibberish-detector</description>
   <url>https://github.com/paypal/Gibberish-Detector-Java</url>
